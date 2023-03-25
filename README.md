@@ -62,6 +62,6 @@ httpd.serve_forever()
 #python3 webserver.py
 ```
 ## OUTPUT:
-![GitHub Logo](webserver.png)
+![Screenshot 2023-03-25 145445](https://user-images.githubusercontent.com/118423842/227708850-45e1dd7f-beb0-4683-844c-49d71c33d518.png)
 ## RESULT:
 The program is executed succesfully
